@@ -1,4 +1,4 @@
-# Use ResNet in Image Classification
+# ResNet Image Classification
 Contain 3 parts.
 1. Part1 contains basics : **Tensors**; **DataLoader**; *Visualize Images*.
 2. Part2 has **Data Normalization; Data augmentation; Residual Connections; Batch Normalization**
